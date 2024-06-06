@@ -1,2 +1,2 @@
-# GitDemo
+# Git
 Learning Git / Github
